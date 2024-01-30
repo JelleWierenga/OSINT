@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-username = 'Test'
-
 class Roblox:
     @staticmethod
     def get_Roblox_Username(username):
@@ -10,7 +8,7 @@ class Roblox:
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         if "No results found" not in soup.text:
-            print(f"User '{username}' exists."
+            print(f"User '{username}' exists on Roblox."
                   f"\nURL: {url}")
         else:
             print(f"User '{username}' does not exist.")
