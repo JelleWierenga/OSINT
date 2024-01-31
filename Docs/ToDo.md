@@ -1,7 +1,7 @@
 # Social media
 - [x] Twitter
 - [x] Instagram
-- [ ] Facebook
+- [X] Facebook
 - [ ] Snapchat
 - [ ] TikTok
 - [ ] Youtube
