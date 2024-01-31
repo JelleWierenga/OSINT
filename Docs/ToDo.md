@@ -1,5 +1,5 @@
 # Social media
-- [ ] Twitter
+- [x] Twitter
 - [x] Instagram
 - [ ] Facebook
 - [ ] Snapchat
