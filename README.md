@@ -43,5 +43,17 @@ For major changes or new tools, please open an issue first to discuss what you w
 ## License
 This repository is licensed under the MIT License.
 
-## Disclaimer
-This repository is for educational purposes only. I am not responsible for any damage done by the tools in this repository. Use them at your own risk.
+## Brief Legal Notice
+
+Welcome to my OSINT tools repo, an open-source tool designed for OSINT activities on social media and online gaming platforms. By using this Tool, you agree to the following basic terms:
+
+- **Purpose**: The Tool is for informational and educational use only. Please use it ethically and in compliance with all laws.
+- **No Liability**: We're not liable for any damages or losses resulting from your use of the Tool.
+- **No Warranties**: The Tool is provided "as is," without any guarantees.
+- **Respect Copyrights**: Don't use the Tool for unauthorized purposes or violate any laws.
+- **Open Source**: The Tool is open-source, but we reserve the right to change its licensing status.
+- **Commercial Use**: Using the Tool for commercial purposes without our written permission is prohibited.
+- **Changes**: We may modify or discontinue the Tool or its terms without notice.
+- **No Support**: We have no obligation to provide support, updates, or enhancements to the Tool.
+
+For detailed terms and conditions, please visit our [Legal Page](https://github.com/JelleWierenga/OSINT/blob/main/Docs/Disclaimer%20and%20Legal.md).
